@@ -1,0 +1,1 @@
+select count(*) as count_aqi  from air_quality_data___2015_2020_ where AQI_Bucket= 'Poor'
